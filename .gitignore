@@ -1,0 +1,7 @@
+venv
+mcqgenerator.egg-info
+.env
+logs
+experiment
+src/__pycache__
+src/mcq_generator/__pycache__
