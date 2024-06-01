@@ -48,25 +48,3 @@ This repository contains a web application that harnesses OpenAI's Language Mode
 
 6. **Access the Application**:
    - Open your web browser and go to `http://localhost:8501`.
-
-## Usage
-
-- **Input Content**: Provide text content based on which the MCQs will be generated.
-- **Customize Settings**: Adjust the number of questions and difficulty level as needed.
-- **Generate MCQs**: Click the button to generate and view the multiple-choice questions.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or issues, please open an issue on GitHub or contact me at your.email@example.com.
-
----
-
-*Note: Replace `yourusername` with your GitHub username and `your.email@example.com` with your email address.*
