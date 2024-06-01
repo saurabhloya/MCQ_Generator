@@ -25,7 +25,7 @@ This repository contains a web application that harnesses OpenAI's Language Mode
 
 2. **Create a Virtual Environment**:
    ```bash
-   conda create -p venv python=3.8 -y
+   conda create -p venv python=3.9 -y
    conda activate venv
    ```
 
