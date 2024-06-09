@@ -8,9 +8,7 @@ This repository contains a web application that harnesses OpenAI's Language Mode
 - **Interactive UI**: Built with Streamlit for a simple and user-friendly interface.
 - **Customizable Options**: Users can customize the number of questions, difficulty level, and more.
 
-## Installation
-
-### Setup Instructions
+## Setup Instructions
 
 1. **Clone the Repository**:
    ```bash
