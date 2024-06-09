@@ -10,11 +10,6 @@ This repository contains a web application that harnesses OpenAI's Language Mode
 
 ## Installation
 
-### Prerequisites
-
-- Python 3.8
-- An OpenAI API Key
-
 ### Setup Instructions
 
 1. **Clone the Repository**:
