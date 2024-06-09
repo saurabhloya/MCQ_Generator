@@ -19,7 +19,7 @@ This repository contains a web application that harnesses OpenAI's Language Mode
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/MCQ_Generator.git
+   git clone https://github.com/saurabhloya/MCQ_Generator.git
    cd MCQ_Generator
    ```
 
